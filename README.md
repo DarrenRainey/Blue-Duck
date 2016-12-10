@@ -10,3 +10,5 @@ This repository will be updated with cutom HID attack scripts for ardunio device
 Payloads/Blue-Duck - Scripts specially designed and optimised for ardunio based devices
 
 Payloads/Ducky -Scripts that have been converted to work with the ardunio platform
+
+There are sub folders of each platform and version to make it easy to find a compatible payload

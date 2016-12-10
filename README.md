@@ -12,3 +12,6 @@ Payloads/Blue-Duck - Scripts specially designed and optimised for ardunio based 
 Payloads/Ducky -Scripts that have been converted to work with the ardunio platform
 
 There are sub folders of each platform and version to make it easy to find a compatible payload
+
+# Contributing
+If you would like to add your script or code to this repo simply make a fork and send me a pull request or send me a message with a link to your pastebin :)

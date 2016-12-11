@@ -17,6 +17,7 @@ void typeKey(uint8_t key)
 /* Init function */
 void setup()
 {
+  pinMode(ledPin, OUTPUT);
   // Begining the Keyboard stream
   Keyboard.begin();
 
@@ -38,4 +39,7 @@ void setup()
 }
 
 /* Unused endless loop */
-void loop() {}
+void loop() {
+int ledPin = 2;
+digitalWrite(ledPin, HIGH);
+}

@@ -4,7 +4,7 @@
 
 A cheaper alternative to the USB rubber ducky
 
-This repository will be updated with cutom HID attack scripts for ardunio devices using the 164 or 32u4 Chip that can be flashed and used directly or modifed for other uses below is a description of the folders :
+This repository will be updated with cutom HID attack scripts for ardunio devices using the 16u4 or 32u4 Chip that can be flashed and used directly or modifed for other uses below is a description of the folders :
 
 # Folders
 Payloads/Blue-Duck - Scripts specially designed and optimised for ardunio based devices

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DarrenRainey/Blue-Duck/master/micro.png" width="200" height="150"> <img src="https://raw.githubusercontent.com/DarrenRainey/Blue-Duck/master/rubber_ducky_380x%402x.jpg"  width="250" height="150">
+<img src="https://github.com/DarrenRainey/Blue-Duck/blob/master/logo.png?raw=true" width="515" height="206">
 
 # Blue-Duck - Now Supporting the USB Rubber Ducky, Arduino Pro Leonardo (ATMEGA32u4) and the Digispark
 
